@@ -2,13 +2,13 @@
 <h3 align="center">Architecting High-Performance Systems with Java, Kafka, React & the Cloud</h3>
 
 <p align="center">
-  <a href="https://anuragsharma.vercel.app" target="_blank">
+  <a href="https://nextgenanurag.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dil-se-arsh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://anuragsharma.vercel.app/resume.pdf" target="_blank">
+  <a href="https://tinyurl.com/anurag-sde-resume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
